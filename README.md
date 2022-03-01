@@ -2,4 +2,4 @@
 
 ### I'm Jeyanth🦸‍♂️
 
-## I'm a Developer, Who love to develop Websites, Apps, Softwares👨‍💻
+## I'm a Developer, Who love to develop Websites, Apps, Softwares etc...👨‍💻
