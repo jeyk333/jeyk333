@@ -3,7 +3,7 @@
 <h1 align="center">I'm Jeyanth</h1>
 <h3 align="center">Passionate Fullstack Developer</h3>
 
-<p aligh="center"> 📫 Reach me via **jeyanthkanagaraj@gmail.com**</p>
+<p align="center"> 📫 Reach me via **jeyanthkanagaraj@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
