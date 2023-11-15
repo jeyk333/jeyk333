@@ -1,7 +1,7 @@
 
 <h1 align="center">வணக்கம்🙏 - Hello👋 - Hola🤟</h1>
 <h1 align="center">I'm Jeyanth</h1>
-<h3 align="center">Passionate Fullstack Developer</h3>
+<h3 align="center"><👨‍💻Passionate Fullstack Developer /></h3>
 
 <p align="center"> 📫 Reach me via <a href="mailto:jeyanthkanagaraj@gmail.com">jeyanthkanagaraj@gmail.com</a></p>
 
