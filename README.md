@@ -10,6 +10,7 @@
 <a href="https://linkedin.com/in/jeyanth-kanagaraju-29067b77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeyanth-kanagaraju-29067b77" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10400381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10400381" height="30" width="40" /></a>
 <a href="https://medium.com/@jeyanthkanagaraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jeyanthkanagaraju" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/jeyanth_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@jeyanthkanagaraju" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
