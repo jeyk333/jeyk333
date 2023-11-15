@@ -3,9 +3,7 @@
 <h1 align="center">I'm Jeyanth</h1>
 <h3 align="center">Passionate Fullstack Developer</h3>
 
-- 💬 Ask me about **Frontend(100%) and Backend(50%)**
-
-- 📫 How to reach me **jeyanthkanagaraj@gmail.com**
+- 📫 Reach me via **jeyanthkanagaraj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
