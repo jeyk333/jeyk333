@@ -1,7 +1,7 @@
 
 <h1 align="center">வணக்கம்🙏 - Hello👋 - Hola🤟</h1>
-<h1 align="center">Hi 👋, I'm Jeyanth</h1>
-<h3 align="center">Passionate Full Stack Developer</h3>
+<h1 align="center">I'm Jeyanth</h1>
+<h3 align="center">Passionate Fullstack Developer</h3>
 
 - 💬 Ask me about **Frontend(100%) and Backend(50%)**
 
