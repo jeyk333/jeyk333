@@ -3,7 +3,7 @@
 <h1 align="center">I'm JK</h1>
 <h3 align="center"><👨‍💻Passionate Web Developer /></h3>
 
-<p align="center"> 📫 Reach me via <a href="mailto:jeyanthkanagaraj@gmail.com">jeyanthkanagaraj@gmail.com</a></p>
+<p align="center"> 📫 Reach me via <a href="mailto:jeykdev@gmail.com">jeykdev@gmail.com</a></p>
 
 <!--<h3 align="center">Connect with me:</h3>
 <p align="center">
